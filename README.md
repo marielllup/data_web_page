@@ -30,10 +30,10 @@ The charts are dynamically styled and presented through a clean user interface t
 Here are some screenshots of the interface:
 
 ### • Territorial Unemployment (2023)
-[Screenshot 1](./screenshot2.png)
+[screenshot 1](./screenshot2.png)
 
 ### • Yearly Comparison (2013–2023)
-[Screenshot 2](./screenshot3.png)
+[screenshot 2](./screenshot3.png)
 
 ---
 
