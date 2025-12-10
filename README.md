@@ -10,7 +10,7 @@ The charts are dynamically styled and presented through a clean user interface t
  
 [preview](./screenshot1.png)
 ---
-## ✨ Features
+## Features
 
 - **Two interactive visualization modes**  
   Users can toggle between territorial data for 2023 and historical yearly data.
@@ -25,7 +25,6 @@ The charts are dynamically styled and presented through a clean user interface t
 
 ---
 
-##
 
 Here are some screenshots of the interface:
 
@@ -37,7 +36,7 @@ Here are some screenshots of the interface:
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - **HTML5** – structure and layout  
 - **CSS3** – styling, color palette, spacing  
@@ -48,4 +47,40 @@ Here are some screenshots of the interface:
 ---
 
 ## 📂 Project Structure
+/index.html </br>
+/style.css </br>
+/script.js </br>
+
+
+The project is designed to be hosted on **GitHub Pages**.
+
+---
+
+## Live Demo
+
+You can access the live version here:  
+👉 *[]*
+
+---
+
+## Data Source
+
+Data used in this project comes from:  
+**ISTAT — Istituto Nazionale di Statistica**  
+(Official unemployment statistics)
+
+---
+
+## 👩‍💻 Author
+
+**Mariella Rossi**  
+Master’s student in Digital Information (LM-91).  
+Interested in web development, data visualization, and digital technologies.
+
+---
+
+## Contacts
+
+- GitHub: https://github.com/marielllup  
+- Email: mariellarossi244@gmail.com
 
