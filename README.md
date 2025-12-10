@@ -30,10 +30,10 @@ The charts are dynamically styled and presented through a clean user interface t
 Here are some screenshots of the interface:
 
 ### • Territorial Unemployment (2023)
-[screenshot 1](./screenshot2.png)
+![screenshot 1](./screenshot2.png)
 
 ### • Yearly Comparison (2013–2023)
-[screenshot 2](./screenshot3.png)
+![screenshot 2](./screenshot3.png)
 
 ---
 
@@ -52,15 +52,12 @@ Here are some screenshots of the interface:
 /style.css </br>
 /script.js </br>
 
-
-The project is designed to be hosted on **GitHub Pages**.
-
 ---
 
 ## Live Demo
 
 You can access the live version here:  
-👉 [Dati sulla Disoccupazione](https://marielllup.github.io/website_project/)
+[Dati sulla Disoccupazione](https://marielllup.github.io/website_project/)
 
 ---
 
@@ -72,7 +69,7 @@ Data used in this project comes from:
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Mariella Rossi**  
 Master’s student in Digital Information (LM-91).  
@@ -84,4 +81,8 @@ Interested in web development, data visualization, and digital technologies.
 
 - GitHub: https://github.com/marielllup  
 - Email: mariellarossi244@gmail.com
+---
+This project was created for educational purposes as part of my portfolio.
+Please do not reuse without attribution.
+
 
