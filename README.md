@@ -1,6 +1,6 @@
 # 📊 Unemployment Index in Italy — Interactive Data Visualization
 
-This project is an interactive web application that visualizes unemployment trends in Italy using official ISTAT data.  
+This project is an interactive data web page that visualizes unemployment trends in Italy using official ISTAT data.  
 The interface allows users to switch between two perspectives:
 
 - **Unemployment by territory in 2023**  
