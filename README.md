@@ -8,7 +8,7 @@ The interface allows users to switch between two perspectives:
 
 The charts are dynamically styled and presented through a clean user interface to make the information easy to read and compare.
  
-[preview](./screenshot1.png)
+![preview](./screenshot1.png)
 
 ---
 ## Features
